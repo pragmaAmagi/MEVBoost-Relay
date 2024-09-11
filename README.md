@@ -18,6 +18,13 @@ This project collects and analyzes Maximal Extractable Value (MEV) data from Eth
 - `requests` library
 - `matplotlib` library for data visualization
 
+## Data Visualization Examples
+![relay_wins_distribution](https://github.com/user-attachments/assets/fa218e9a-ebb9-4a8f-81ba-077b10688198)
+![mev_visualization](https://github.com/user-attachments/assets/f0b5cc85-58df-406e-9359-c245fa53e8c7)
+![gas_used_over_blocks](https://github.com/user-attachments/assets/caf7d6d1-4ffc-4210-a522-a69ef4036c9a)
+![average_bid_histogram](https://github.com/user-attachments/assets/d1bf3e4a-aea2-4e4c-8863-973c7d835397)
+
+
 ## Installation
 
 1. Clone this repository:
